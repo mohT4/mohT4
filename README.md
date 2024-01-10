@@ -1,22 +1,18 @@
-<h1 align="center">Hi 👋, I'm Mohammed Tifour</h1>
-<h3 align="center">Back-end developer</h3>
+# 💫 About Me:
+ Hello, I am Mohammed Tifour, a passionate and motivated developer who recently embarked on the exciting journey into the programming world. In just one week since I started, I've been focusing on mastering back-end technologies. My initial steps have been guided by a strong aspiration to craft robust and efficient applications.<br><br>While I'm in the early stages of my development career, I've been immersing myself in various technologies, with a particular emphasis on JavaScript, TypeScript, Node.js, Express, and Mongoose. It's a thrilling learning process, and I'm eager to continue expanding my skills.<br><br>Currently, I'm gaining practical experience as a developer at Logal Doctrine, where every day brings new challenges and opportunities for growth. I'm excited about the learning curve ahead and enthusiastic about contributing to the innovative projects at Logal Doctrine.
 
 
-<p align="left">
-  Hello, I am Mohammed Tifour, a passionate and motivated developer with a focus on back-end technologies. My journey into the world of programming began with a strong desire to create robust and efficient applications. While I am familiar with a range of technologies, I specialize in JavaScript, Node.js, Express, and Mongoose.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tifour) 
 
-Project Highlights:
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohT4&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohT4&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohT4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I believe that hands-on experience is the best way to learn, and I've undertaken several personal projects to sharpen my skills. Here are some of my notable accomplishments:
+---
+[![](https://visitcount.itsvg.in/api?id=mohT4&icon=0&color=0)](https://visitcount.itsvg.in)
 
-CRUD Projects with API Integration: I have created two simple yet functional CRUD (Create, Read, Update, Delete) applications using APIs. These projects demonstrate my ability to handle data effectively and implement RESTful principles.
-
-Error Handling: Understanding the importance of robust error handling, I've integrated error-handling mechanisms in my projects to ensure graceful degradation and a smooth user experience.
-
-Authentication Functions: I have implemented authentication functions to enhance security in my applications. This includes user registration, login, and authorization, showing my commitment to security best practices.
-
-
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
